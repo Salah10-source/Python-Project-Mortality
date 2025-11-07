@@ -1,2 +1,2 @@
 # Python Project
-This is my first project created on Onyxia and published on GitHub.
+Project Python for Data Science : Mortality in France.
