@@ -1,7 +1,0 @@
-pandas
-s3fs
-numpy
-openpyxl
-jupyter
-tabulate
-matplotlib
