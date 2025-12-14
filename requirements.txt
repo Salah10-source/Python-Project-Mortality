@@ -5,3 +5,7 @@ openpyxl
 jupyter
 tabulate
 matplotlib
+statsmodels
+warnings
+seaborn
+scipy
