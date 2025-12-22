@@ -5,13 +5,14 @@ Ce dépôt contient un projet de prévision de la mortalité en France sur la p�
 ## 1) Contexte et problématique
 
 ### Contexte
-L’analyse de la mortalité est un enjeu majeur pour :
-- les **systèmes de retraite**,
-- les **assurances vie**,
-- les **politiques publiques de santé**,
-- la **planification socio-économique**.
-
-La période 1816–2023 couvre des dynamiques démographiques et sanitaires complexes : vieillissement de la population, progrès médicaux, et chocs (ex. crises sanitaires), ce qui rend la prévision particulièrement exigeante.
+L’analyse de la mortalité constitue un enjeu majeur pour les systèmes de retraite, 
+les assurances vie, les politiques publiques de santé et la planification 
+socio-économique. Dans le contexte français, comprendre l’évolution de la 
+mortalité sur la période 1816–2023 est particulièrement important, car cette 
+période inclut des dynamiques démographiques complexes : vieillissement 
+accéléré de la population, progrès médicaux, chocs sanitaires tels que la 
+pandémie de Covid-19, ainsi que des transformations structurelles affectant 
+les comportements de santé.
 
 ### Problématique
 **Les approches de Machine Learning permettent-elles d’améliorer la qualité des prévisions de mortalité par rapport aux modèles classiques, en particulier Lee–Carter, en termes de précision, stabilité et robustesse ?**
