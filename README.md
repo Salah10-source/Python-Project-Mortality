@@ -16,14 +16,26 @@ La période 1816–2023 couvre des dynamiques démographiques et sanitaires comp
 ### Problématique
 **Les approches de Machine Learning permettent-elles d’améliorer la qualité des prévisions de mortalité par rapport aux modèles classiques, en particulier Lee–Carter, en termes de précision, stabilité et robustesse ?**
 
-## 2) Utilisation
+## 2) Structure du projet
+
+```text
+.
+├── demo.ipynb          # Notebook principal (analyse complète)
+├── requirements.txt    # Dépendances Python nécessaires au projet
+└── README.md           # Description du projet
+```
+
+## 3) Utilisation
 
 ### Pré-requis
 - Python (recommandé : **3.9+**)
 - `pip`
-pip install -r requirements.txt
+pip install -r requirements.txt (Installation des dépendances nécessaire)
 
-## 3) Résultat général
+### Exécution
+Lancer le notebook demo.ipynb (Run All)
+
+## 4) Résultat général
 
 ### Résultat général (bref)
 Les modèles de **Machine Learning** se révèlent globalement **plus robustes en prédiction** que les modèles statistiques classiques (ex. **Lee–Carter**), notamment parce qu’ils capturent mieux les **non-linéarités** et les **relations complexes** présentes sur l’ensemble des années.
