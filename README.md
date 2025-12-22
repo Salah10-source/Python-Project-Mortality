@@ -30,7 +30,7 @@ La période 1816–2023 couvre des dynamiques démographiques et sanitaires comp
 ### Pré-requis
 - Python (recommandé : **3.9+**)
 - `pip`
-pip install -r requirements.txt (Installation des dépendances nécessaire)
+- pip install -r requirements.txt (Installation des dépendances nécessaire)
 
 ### Exécution
 Lancer le notebook demo.ipynb (Run All)
