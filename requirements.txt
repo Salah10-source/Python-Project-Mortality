@@ -1,11 +1,10 @@
-pandas
-s3fs
 numpy
-openpyxl
-jupyter
-tabulate
+pandas
 matplotlib
-statsmodels
-warnings
 seaborn
+scikit-learn
+xgboost
 scipy
+statsmodels
+s3fs
+tabulate
