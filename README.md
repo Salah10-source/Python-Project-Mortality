@@ -33,7 +33,8 @@ Ils sont ensuite **importés directement dans le code** à partir de ce réperto
 .
 ├── main.ipynb          # Notebook principal (analyse complète)
 ├── requirements.txt    # Dépendances Python nécessaires au projet
-└── README.md           # Description du projet
+├── README.md           # Description du projet
+└── .gitignore           
 ```
 
 ## 4) Utilisation
