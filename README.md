@@ -45,7 +45,7 @@ Ils sont ensuite **importés directement dans le code** à partir de ce réperto
 
 ### Exécution
 - pip install -r requirements.txt (Installation des dépendances nécessaire)
-- Lancer le notebook demo.ipynb (Run All)
+- Lancer le notebook main.ipynb (Run All)
 
 ## 5) Résultat général
 
